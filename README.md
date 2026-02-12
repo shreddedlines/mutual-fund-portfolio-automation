@@ -150,7 +150,5 @@ This generates the consolidated output file: `axis_mf_portfolio_2025_12_clean.cs
 
 ## Author
 
-**Kshitish Kumar**  
-Data Analytics Intern Applicant  
-
-This project was completed as part of the assignment for **Qonfido – Data Analytics Intern (Financial Data)** role.
+**Kshitish Kumar**   
+This project was completed as part of the task for **Qonfido**
