@@ -151,4 +151,3 @@ This generates the consolidated output file: `axis_mf_portfolio_2025_12_clean.cs
 ## Author
 
 **Kshitish Kumar**   
-This project was completed as part of the task for **Qonfido**
